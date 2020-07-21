@@ -26,7 +26,7 @@ python obs [start|stop] "download_folder/"
 
 to start:
 ```
-python obs.py start yy"~/screencasts/"
+python obs.py start "~/screencasts/"
 ```
     
 to stop:
